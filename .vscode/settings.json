@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15,
+    "python.pythonPath": ".venv\\Scripts\\python.exe"
+}
